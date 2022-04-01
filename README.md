@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻  I’m currently working on Frontend
-- 📚  I’m currently learning Typescript
+- 📚  I’m currently learning Javascript
 
 <div align="center">
   <a href="https://github.com/marcoshollmann">
