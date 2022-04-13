@@ -3,6 +3,7 @@
 🚧A front-end developer under construction🚧
 ##
    ![giphy](https://user-images.githubusercontent.com/90859879/162593675-ad1f790c-3b97-4ead-af9d-1c0f3ed156e1.gif)
+   
 
 
 <div align="center">
@@ -24,6 +25,6 @@
   <a href="https://instagram.com/hollmannkk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:marcoshollmann0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-hollmann-401812204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ https://github.com/marcoshollmann/marcoshollmann/blob/output/github-contribution-grid-snake.gif
   ![Snake animation](https://github.com/marcoshollmann/marcoshollmann/blob/output/github-contribution-grid-snake.svg)
 </div>
