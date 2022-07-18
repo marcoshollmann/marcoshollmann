@@ -13,9 +13,19 @@
   <div align=center>
    <img height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=marcoshollmann&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em"align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshollmann&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    
+    
+    
+    
+  <img height="180em"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshollmann&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
   </div>
 </div>
+
+
+ <img height="180em"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshollmann&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+
+
+
 <div style="display: inline_block"><br>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
