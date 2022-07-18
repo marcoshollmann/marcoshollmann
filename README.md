@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/marcoshollmann">
   <div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshollmann&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshollmann&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
 </div>
 <div style="display: inline_block"><br>
