@@ -11,7 +11,8 @@
   <a href="https://github.com/marcoshollmann">
      
   <div align=center>
-  <img width=500 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshollmann&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshollmann&show_icons=true&theme=gothan&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshollmann&layout=compact&langs_count=7&theme=gothan"/>
   </div>
 </div>
 <div style="display: inline_block"><br>
