@@ -2,7 +2,7 @@
   ##
 🚧A front-end developer under construction🚧
 ##
-   ![giphy](https://user-images.githubusercontent.com/90859879/162593675-ad1f790c-3b97-4ead-af9d-1c0f3ed156e1.gif)
+  <div align="center" ![giphy](https://user-images.githubusercontent.com/90859879/162593675-ad1f790c-3b97-4ead-af9d-1c0f3ed156e1.gif) </div>
   
    
 
