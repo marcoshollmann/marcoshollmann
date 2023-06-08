@@ -2,9 +2,9 @@ Hey, I'm Marcos Hollmann
   ##
  I'm a tech enthusiast and have experience with web projects and AI with python and Cloud using Azure. 
 ##
-• Deployment of machine learning models
-• Dashboard Construction
-• Database Projection
+• Deployment of machine learning models <br>
+• Dashboard Construction<br>
+• Database Projection<br>
 • Data Structuring
   ##
  
