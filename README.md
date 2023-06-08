@@ -1,6 +1,6 @@
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⚠Interdicted⚠
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀ Hey
   ##
- 🚧A front-end developer under construction🚧 
+ 🚧 I'm a tech enthusiast and have experience with web projects and AI with python and Cloud using Azure. 🚧 
 ##
 
 <div style="display: inline_block"><br>
