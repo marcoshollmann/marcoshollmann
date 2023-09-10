@@ -4,7 +4,7 @@ Hey, I'm Marcos Hollmann
 ##
 • Deployment of machine learning models <br>
 • Dashboard Construction<br>
-• Database Projection<br>
+• Autoencoders Implementation<br>
 • Data Structuring
   ##
  
