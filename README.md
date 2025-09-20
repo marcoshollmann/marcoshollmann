@@ -1,12 +1,17 @@
-Hey, I'm Marcos Hollmann
-  ##
- I'm a tech enthusiast and have experience with web projects and AI with python and Cloud. 
-##
-• Deployment of machine learning models <br>
-• Dashboard Construction<br>
-• Autoencoders Implementation<br>
-• Data Structuring
-  ##
+# Hey, I'm Marcos Hollmann  
+
+I'm a **Growth Engineer at Zazos**, working with **AI and web technologies** to build scalable products and real-world solutions.  
+
+---
+
+## Projects  
+- [Link-Pic](https://link-pic.com) → AI-generated professional photos (13k visitors, 300+ paying users)  
+- [Prismma](https://prismma.pro) → Software solutions and web development  
+
+More about me and my work: [marcoshollmann.com](https://www.marcoshollmann.com/)  
+
+---
+
  
 <div> 
   <a href="https://instagram.com/hollmannkk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
