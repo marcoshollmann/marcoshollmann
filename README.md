@@ -1,6 +1,6 @@
 # Hey, I'm Marcos Hollmann  
 
-I'm a **Head of Growth @ isla.to**, working with **AI and web technologies** to build scalable products and real-world solutions.  
+I'm a **CEO @ isla.to**, working with **AI and web technologies** to build scalable products and real-world solutions.  
 
 ## Projects  
 - [Link-Pic](https://link-pic.com) → AI-generated professional photos (13k visitors, 300+ paying users) — **acquired**  
